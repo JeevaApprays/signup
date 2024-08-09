@@ -1,0 +1,15 @@
+.card-custom {
+    border: 1px solid #ddd; /* Add border to the card */
+    border-radius: 4px; /* Rounded corners for the card */
+    padding: 15px; /* Padding inside the card */
+}
+
+.card-content {
+    padding-bottom: 15px; /* Padding below the card content */
+}
+
+.divider {
+    border: 0;
+    border-top: 1px solid #ddd; /* Light gray line for the divider */
+    margin: 10px 0; /* Margin above and below the divider */
+}
