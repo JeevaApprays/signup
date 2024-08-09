@@ -33,7 +33,7 @@ const Register=()=> {
   
     return (
       <div className="App">
-        <h2>Registration Form</h2>
+        <h2>User Registration Form</h2>
         <form onSubmit={handleSubmit}>
           <div>
             <label>First Name:</label>
